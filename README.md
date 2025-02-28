@@ -21,6 +21,10 @@ A web application that transforms any website's content into structured, tabular
 
 Hit the "Export" button to download the data into a CSV file.
 
+**Important Note**
+The model accurately extracts real data from the provided URL and does not generate or fabricate information.
+![No Hallucination GIF Feb 28 2025](https://github.com/user-attachments/assets/ff83d839-0415-4ba6-be8e-b62ca654f7de)
+
 
 **Process**: The application will:
   - Fetch the webpage content
