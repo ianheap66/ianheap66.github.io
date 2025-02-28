@@ -12,12 +12,12 @@ A web application that transforms any website's content into structured, tabular
 ## how do i use it?
 
 **This is the starting screen.**
-<img src="https://github.com/user-attachments/assets/6ca94607-a2aa-4314-98fc-9e08f8c8769d" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/6ca94607-a2aa-4314-98fc-9e08f8c8769d" width="1920" height="1080">
 
 **Paste the desired URL, and hit "Scrape it"**
 (Optionally, if you want to provide extra details, you can interact with your data through the text box.)
 
-<img src="https://github.com/user-attachments/assets/8c2baf5d-0375-47ff-92e7-1a978634032d" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/8c2baf5d-0375-47ff-92e7-1a978634032d" width="300" height="250">
 
 Hit the "Export" button to download the data into a CSV file.
 
