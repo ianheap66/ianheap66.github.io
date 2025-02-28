@@ -23,7 +23,7 @@ If everything is to your liking, simply hit the "Export" button to download the 
 
 **Important Note**
 
-The model accurately extracts real data from the provided URL and does not generate or fabricate information.
+As we cna see in the video below, the model accurately extracts real data from the provided URL and does not generate or fabricate information.
 ![nohalgif](https://github.com/user-attachments/assets/791aa761-ef19-4e8e-96a6-7a188898df83)
 
 
