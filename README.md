@@ -28,6 +28,7 @@ Hit the "Export" button to download the data into a CSV file.
   - Use AI to identify relevant sections
   - Generate custom scraping code
   - Extract and structure the data
+    
 **View Results**: Data is presented in a clean, paginated table
 
 ## stack
