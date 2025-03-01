@@ -9,7 +9,7 @@ A web application that transforms any website's content into structured, tabular
 - **Data Organization**: Automatically structures scraped data into clean, tabular format
 - **Export Functionality**: Export results to CSV
   
-## how do i use it?
+## how to use it:
 
 **This is the starting screen.**
 ![Screenshot 2025-01-30 at 11 03 43](https://github.com/user-attachments/assets/6ca94607-a2aa-4314-98fc-9e08f8c8769d)
@@ -45,7 +45,7 @@ As we cna see in the video below, the model accurately extracts real data from t
 - **Vector Storage**: LangChain Memory Vector Store
 - **Text Processing**: LangChain Text Splitter
 
-## what is it good for?
+## What can you use this for
 
 - Market Research
 - Data Collection
